@@ -15,14 +15,16 @@
 
 - 🎓 &nbsp;Computer Science Graduate
 - 🔧 &nbsp;Specialized in **Backend Development** with **.NET**
+- 🏗️ &nbsp;Passionate about **Clean Architecture**, **SOLID Principles** & **Microservices**
 - 🌱 &nbsp;Currently working on **[Company Dashboard MVC]** & **[Btrip Tours]**
-- 💬 &nbsp;Ask me about **C#, ASP.NET Core, REST APIs, and Clean Architecture**
+- 💬 &nbsp;Ask me about **C#, ASP.NET Core, REST APIs, Clean Architecture, CQRS**
 - 📫 &nbsp;Reach me via [GitHub Issues](https://github.com/AbdallahBahaa65)
 
 ---
 
 ## 🛠️ Tech Stack
 
+### Core
 <table>
   <tr>
     <td align="center" width="96">
@@ -31,7 +33,7 @@
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="48" height="48" alt=".NET" />
-      <br>.NET
+      <br>ASP.NET Core
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server" />
@@ -52,9 +54,25 @@
   </tr>
 </table>
 
-**Backend:** ASP.NET Core · Entity Framework Core · REST APIs · Clean Architecture  
-**Database:** SQL Server · Redis  
-**DevOps:** Docker · Git  
+### Libraries & Tools
+
+| Category | Technologies |
+|---|---|
+| **ORM & Data Access** | Entity Framework Core · Dapper |
+| **Authentication & Security** | JWT · OAuth 2.0 |
+| **Validation** | FluentValidation |
+| **Messaging & Real-time** | MediatR · SignalR · gRPC |
+| **Mapping** | AutoMapper |
+| **Observability** | Serilog / Microsoft.Extensions.Logging |
+
+### Architecture & Design Patterns
+
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-7B68EE?style=flat-square)
+![Onion Architecture](https://img.shields.io/badge/Onion%20Architecture-7B68EE?style=flat-square)
+![Microservices](https://img.shields.io/badge/Microservices-5A9FD4?style=flat-square)
+![CQRS](https://img.shields.io/badge/CQRS-5A9FD4?style=flat-square)
+![Repository Pattern](https://img.shields.io/badge/Repository%20Pattern-3CB371?style=flat-square)
+![SOLID](https://img.shields.io/badge/SOLID%20Principles-3CB371?style=flat-square)
 
 ---
 
